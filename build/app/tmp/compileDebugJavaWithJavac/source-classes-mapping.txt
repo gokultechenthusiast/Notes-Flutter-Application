@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/gokul/notes/BuildConfig.java
- com.gokul.notes.BuildConfig
